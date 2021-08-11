@@ -97,6 +97,6 @@ ENV/
 .idea/
 
 # img data
-results_imgs-fp-mappen-test/
-test_images/
-train_images/
+#results_imgs-fp-mappen-test/
+#test_images/
+#train_images/
