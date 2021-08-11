@@ -1,3 +1,4 @@
+@@ -1,93 +0,0 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -91,3 +92,11 @@ ENV/
 # hdf5
 *.h5
 *.hdf5
+
+#.idea
+.idea/
+
+# img data
+results_imgs-fp-mappen-test/
+test_images/
+train_images/
